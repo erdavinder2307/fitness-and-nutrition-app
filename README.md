@@ -2,6 +2,15 @@
 
 A modern iOS-style fitness and nutrition tracking mobile app built with Flutter. This is a UI-only implementation showcasing clean architecture and reusable components.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/onboarding.png" width="200" alt="Onboarding Screen"/>
+  <img src="screenshots/home.png" width="200" alt="Home Dashboard"/>
+  <img src="screenshots/workout.png" width="200" alt="Workout Tracker"/>
+  <img src="screenshots/meals.png" width="200" alt="Meal Planner"/>
+</div>
+
 ## Features
 
 ### Screens
